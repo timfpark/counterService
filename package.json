@@ -1,0 +1,13 @@
+{
+  "name": "counterservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "prom-client": "^10.2.2"
+  }
+}
